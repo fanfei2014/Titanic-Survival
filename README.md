@@ -5,5 +5,6 @@
 #### Data Gathering
 #### Explore Data Analysis
 #### Data Wrangling & Visulization
+#### Training Data Set-up
 #### Machine Learning Model Selection & Training Data
 #### Result Measurement
