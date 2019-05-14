@@ -6,5 +6,5 @@
 #### Explore Data Analysis
 #### Data Wrangling & Visulization
 #### Training Data Set-up
-#### Machine Learning Model Selection & Training Data
+#### Machine Learning Model Selection & Data Training
 #### Result Measurement
